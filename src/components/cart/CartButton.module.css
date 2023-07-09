@@ -1,0 +1,22 @@
+.button {
+    background-color: rgb(66, 69, 69);
+    /* border-color: #ffffff; */
+    border: none;
+    color: #ffffff;
+    height: 1.6rem;
+    border-radius: 30px;
+  }
+  .button:hover,
+  .button:active {
+    color: rgb(93, 139, 134);
+  }
+  .button span {
+    margin: 0 0.5rem;
+  }
+  
+  .badge {
+    background-color: #a7b9b6;
+    border-radius: 25px;
+    padding: 0.15rem 1.25rem;
+    color: #1d1d1d;
+  }
